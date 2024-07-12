@@ -1,2 +1,2 @@
 # masterblog-api
- An api created with Python.
+ An api created with Python, HTML, CSS, and JavaScript.
